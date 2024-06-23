@@ -22,7 +22,6 @@ classifiers = [
     "Programming Language :: Python :: 3 :: Only",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
-    "Natural Language :: English",
 ]
 dependencies = [
     "click>=8.0.0",

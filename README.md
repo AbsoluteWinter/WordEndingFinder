@@ -1,6 +1,6 @@
-# python project with logger
+# Word ending finder
 
-Python project template
+test project
 
 | | |
 | :---: | :--- |
@@ -13,6 +13,12 @@ Python project template
 
 ```
 pip install -e .
+```
+
+## USAGE
+
+```
+wef
 ```
 
 ## LICENSE
